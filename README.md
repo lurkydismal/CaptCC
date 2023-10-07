@@ -2,6 +2,9 @@
 contributions are accepted and appreciated.
 
 # CaptCC
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4579f7698a554d1a937ba354e155b7c1)](https://app.codacy.com/gh/lurkydismal/CaptCC/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 A tiny Proof-of-Concept C compiler written purely in JavaScript.   
 It's been a while that I learned JS and it has worked for me in many different scenarios.      
 I actually learned JS while analyzing a piece of malware written in JS. Then I got really interested.      
